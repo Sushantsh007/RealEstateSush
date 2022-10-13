@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "Address": "Noida",
+    "Categorey": "Cement Mason"
+  }, {
+    "id": 2,
+    "Address": "delhi",
+    "Categorey": "Welder"
+  }, {
+    "id": 3,
+    "Address": "chennai",
+    "Categorey": "Painter"
+  }, {
+    "id": 4,
+    "Address": "indore",
+    "Categorey": "Welder"
+  }, {
+    "id": 5,
+    "Address": "uttar pradesh",
+    "Categorey": "Tile Setter"
+  }, {
+    "id": 6,
+    "Address": "mumbai",
+    "Categorey": "Boilermaker"
+  }, {
+    "id": 7,
+    "Address": "jaipur",
+    "Categorey": "Equipment Operator"
+  }, {
+    "id": 8,
+    "Address": "delki",
+    "Categorey": "Linemen"
+  }, {
+    "id": 9,
+    "Address": "delko",
+    "Categorey": "Safety Officer"
+  }, {
+    "id": 10,
+    "Address": "bihar",
+    "Categorey": "Cement Mason"
+  }]
+

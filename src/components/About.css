@@ -1,0 +1,22 @@
+.section-title { max-width: 20ch; }
+
+.about-banner {
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  margin-block-end: 30px;
+}
+
+.about-banner .play-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(142, 76%, 36%);
+  padding: 30px;
+  font-size: 20px;
+  border-radius: 50px;
+}
+
+.about .section-text { margin-block: 20px 25px; }
